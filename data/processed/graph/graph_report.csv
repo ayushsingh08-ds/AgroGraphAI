@@ -1,0 +1,2 @@
+node_count,edge_count,avg_degree,disconnected_nodes,density,feature_dim
+141,1269,9.0,0,0.06382978723404255,49

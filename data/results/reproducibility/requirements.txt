@@ -1,0 +1,11 @@
+torch
+torch-geometric
+scikit-learn
+pandas
+numpy
+rasterio
+shap
+esda
+libpysal
+matplotlib
+scipy

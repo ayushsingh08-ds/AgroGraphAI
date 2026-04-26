@@ -1,0 +1,8 @@
+{
+    "hidden_dim": 128,
+    "lr": 0.001,
+    "dropout": 0.3,
+    "k_neighbors": 8,
+    "folds": 5,
+    "lambda_phys": 0.1
+}
